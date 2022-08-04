@@ -1,0 +1,1 @@
+MsgBox("Installation finished.")
